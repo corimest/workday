@@ -25,7 +25,7 @@
     THEN the saved events persist
   
   ## Deployed Link
-    https://corimest.github.io/workday_calendar/
+    https://corimest.github.io/workday/
   
   ## Questions
   - GitHub: [corimest](https://github.com/corimest)
