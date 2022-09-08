@@ -1,20 +1,19 @@
-var time = ["8:00", "9:00", "10:00", "11:00", "12:00", "13:00", "14:00", "15:00", "16:00", "17:00", "18:00", "19:00", "20:00"]
 var currentTime = moment().hour()
 var hour = moment().hours();
 
-var eight = $("#8am");
-var nine = $("#9am");
-var ten = $("#10am");
-var eleven = $("#11am");
-var twelve = $("#12pm");
-var thirteen = $("#1pm");
-var fourteen = $("#2pm");
-var fifteen = $("#3pm");
-var sixteen = $("#4pm");
-var seventeen = $("#5pm");
-var eighteen = $("#6pm");
-var nineteen = $("#7pm");
-var twenty = $("#8pm");
+var eight = $("#8");
+var nine = $("#9");
+var ten = $("#10");
+var eleven = $("#11");
+var twelve = $("#12");
+var thirteen = $("#13");
+var fourteen = $("#14");
+var fifteen = $("#15");
+var sixteen = $("#16");
+var seventeen = $("#17");
+var eighteen = $("#18");
+var nineteen = $("#19");
+var twenty = $("#20");
 
 let m = moment();
 $('#currentDay').html(m.format('MMMM DD YYYY'));
